@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ChiaComponent/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ChiaComponent/static/js/main.09a48954.chunk.js",
+    "main.js.map": "/ChiaComponent/static/js/main.09a48954.chunk.js.map",
+    "runtime-main.js": "/ChiaComponent/static/js/runtime-main.f581bc08.js",
+    "runtime-main.js.map": "/ChiaComponent/static/js/runtime-main.f581bc08.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/ChiaComponent/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.267d30e3.chunk.js": "/ChiaComponent/static/js/2.267d30e3.chunk.js",
+    "static/js/2.267d30e3.chunk.js.map": "/ChiaComponent/static/js/2.267d30e3.chunk.js.map",
+    "static/js/3.b1d47882.chunk.js": "/ChiaComponent/static/js/3.b1d47882.chunk.js",
+    "static/js/3.b1d47882.chunk.js.map": "/ChiaComponent/static/js/3.b1d47882.chunk.js.map",
+    "index.html": "/ChiaComponent/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/ChiaComponent/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/ChiaComponent/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.267d30e3.chunk.js.LICENSE.txt": "/ChiaComponent/static/js/2.267d30e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f581bc08.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.267d30e3.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.09a48954.chunk.js"
+  ]
+}
